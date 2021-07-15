@@ -1,0 +1,11 @@
+body, article,aside{
+    border: 2px solid lightgray;
+    padding: 30px;
+    margin: 30px;
+}
+h3{
+    text-align: center;
+}
+label{
+    float: right;
+}
